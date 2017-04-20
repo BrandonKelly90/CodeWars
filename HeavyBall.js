@@ -25,7 +25,7 @@ function findBall(scales, ball_count) {
     var scalesArray = arraySplitter(scales, 3);
 
 // run getWeight to compare
-    function getWeight (scalesAray[0], scalesAray[1]){
+    function getWeight (scalesArray[0], scalesArray[1]){
         var result;
             if (scalesArray[0] > scalesArray[1]){
             ///what to do next
